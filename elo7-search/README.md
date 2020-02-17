@@ -3,8 +3,8 @@
 A dataset from Elo7 based on the search engine usage by users.
 
 Download: 
-- You can download a _csv_ file [here](s3://elo7-datasets/elo7-search-dataset/elo7_search_dataset.tar.gz)
-- or a _parquet_ [here](s3://elo7-datasets/elo7-search-dataset/elo7-search-dataset-parquet)
+- _csv_ file [here]("s3://elo7-datasets/elo7-search-dataset/elo7_search_dataset.tar.gz")  
+- _parquet_ [here]("s3://elo7-datasets/elo7-search-dataset/elo7-search-dataset-parquet")
 
 Data description: 
 
